@@ -1,0 +1,12 @@
+#!/bin/bash
+#SBATCH -n 10 #Request 4 tasks (cores)
+#SBATCH -N 1 #Request 1 node
+#SBATCH -t 5-2:00 #Request runtime of 30 minutes
+#SBATCH -C centos7 #Request only Centos7 nodes
+#SBATCH -p sched_mit_chisholm #Run on sched_engaging_default partition
+#SBATCH --mem-per-cpu=10000 #Request 4G of memory per CPU
+#SBATCH -o output_%j.txt #redirect output to output_JOBID.txt
+#SBATCH -e error_%j.txt #redirect errors to error_JOBID.txt
+#SBATCH --mail-type=BEGIN,END #Mail when job starts and ends
+#SBATCH --mail-user=demers@mit.edu #email recipient
+./standard-RAxML/raxmlHPC-SSE3 -s ../digitalorganisms/catalase/v2_core_genes_concatenated_proteins.fa -m PROTGAMMAAUTO -p 72035 -n T18
