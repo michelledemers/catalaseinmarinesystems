@@ -1,0 +1,2 @@
+target.name	accession	query.name	accession.1	sequence.E.value	sequence.score	sequence.bias	domain.E.value	domain.score	domain.bias	exp	reg	clu	ov	env	dom	rep	inc	description.of.target	scaffold	genome
+TARA_SAMEA2621198_METAG-scaffold_1868-gene_6	-	Mn_catalase	PF05067.15	2e-89	310.9	0	2.3e-89	310.6	0	1	1	0	0	1	1	1	1	-	TARA_SAMEA2621198_METAG-scaffold_1868-	TARA_SAMEA2621198_METAG_NHKNDBOB
