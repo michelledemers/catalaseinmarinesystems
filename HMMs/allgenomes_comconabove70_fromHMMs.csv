@@ -1,0 +1,215 @@
+"","GenomeName_raw","taxon_oid","Genome.Name...Sample.Name","Depth","Completeness","Contamination","Size.Fraction","K03781","K03782","total"
+"1","Alteromonas_abrolhosensis_PEL_67E","2855659987","Alteromonas abrolhosensis PEL 67E",10,100,0.02,"",3,1,4
+"2","Alteromonas_abrolhosensis_PEL_68C","2844285455","Alteromonas abrolhosensis PEL 68C",10,98.81,1.82,"",3,1,4
+"3","Alteromonas_aestuariivivens_KCTC_52655","2834719733","Alteromonas aestuariivivens KCTC 52655",NA,100,0.01,"",0,2,2
+"4","Alteromonas_alba_190","2844289591","Alteromonas alba 190",0,99.89,0.65,"",1,2,3
+"5","Alteromonas_australica_DE170","2639762924","Alteromonas australica DE170",1000,100,3.08,"",3,2,5
+"6","Alteromonas_australica_H17","2585427644","Alteromonas australica H17",1,99.59,0,"",3,2,5
+"7","Alteromonas_australica_SAMEA2591132","KHLCFNJJ","Alteromonas australica TARA KHLCFNJJ ",70,82.36,1.88,"<-0.22",4,2,6
+"8","Alteromonas_australica_SAMEA2620882","GJEPBGGD","Alteromonas australica TARA GJEPBGGD ",850,78.9,0.06,"0.22-3",3,2,5
+"9","Alteromonas_australica_SAMEA2621013","FHBCEPPH","Alteromonas australica TARA FHBCEPPH ",5,78.21,0.82,"0.22-3",3,2,5
+"10","Alteromonas_australica_SAMEA2621020","DGKNMHLE","Alteromonas australica TARA DGKNMHLE ",5,91.9,0.46,"0.22-0.45",3,2,5
+"11","Alteromonas_australica_SAMEA2621021","JAJGGMJP","Alteromonas australica TARA JAJGGMJP ",5,72.47,0.35,"0.45-0.8",3,2,5
+"12","Alteromonas_australica_SAMEA2621037","BOIEAKJP","Alteromonas australica TARA BOIEAKJP ",50,81.18,0.08,"0.22-3",3,2,5
+"13","Alteromonas_australica_SAMEA2621044","NOLHAABM","Alteromonas australica TARA NOLHAABM ",50,75.15,0.42,"0.22-0.45",3,2,5
+"14","Alteromonas_australica_SAMEA2621066","EHDOKGKK","Alteromonas australica TARA EHDOKGKK ",5,87.25,0.76,"0.22-3",3,2,5
+"15","Alteromonas_australica_SAMEA2621092","JEDFGNEM","Alteromonas australica TARA JEDFGNEM ",800,74.1,0.4,"0.22-3",3,2,5
+"16","Alteromonas_australica_SAMEA2621216","ANKHBPBN","Alteromonas australica TARA ANKHBPBN ",150,80.57,0.8,"0.22-3",3,2,5
+"17","Alteromonas_australica_SAMEA2622097","CBGOIALJ","Alteromonas australica TARA CBGOIALJ ",5,79.11,0.31,"0.22-3",3,2,5
+"18","Alteromonas_australica_SAMEA2622119","AHJCKKBI","Alteromonas australica TARA AHJCKKBI ",50,82.79,0.35,"0.22-3",3,2,5
+"19","Alteromonas_australica_SAMEA2622149","IIKHAJAF","Alteromonas australica TARA IIKHAJAF ",177,82.46,0.35,"0.22-3",3,2,5
+"20","Alteromonas_australica_SAMEA2622402","IKPHBABN","Alteromonas australica TARA IKPHBABN ",50,86.14,0.31,"0.22-3",3,2,5
+"21","Alteromonas_australica_SAMEA2622656","ONBBOINN","Alteromonas australica TARA ONBBOINN ",5,74.7,2.42,"0.1-0.22",3,3,6
+"22","Alteromonas_australica_SAMEA2622695","ILPHFPJJ","Alteromonas australica TARA ILPHFPJJ ",115,75.69,0.3,"0.22-0.45",3,2,5
+"23","Alteromonas_australica_SAMEA2622696","FJMHLBNK","Alteromonas australica TARA FJMHLBNK ",115,80.96,0.68,"0.45-0.8",3,2,5
+"24","Alteromonas_australica_SAMEA2622923","FFMAPNPA","Alteromonas australica TARA FFMAPNPA",40,89,0.4,"0.22-3",3,2,5
+"25","Alteromonas_australica_SAMEA2623135","DJILNNCH","Alteromonas australica TARA DJILNNCH",45,93.28,0.31,"0.22-3",3,2,5
+"26","Alteromonas_australica_SAMEA2623295","JAJGGAMP","Alteromonas australica TARA JAJGGAMP",40,82.32,0.31,"0.22-3",3,2,5
+"27","Alteromonas_australica_SAMEA2623314","DPHFBFLK","Alteromonas australica TARA DPHFBFLK",375,81.9,2.17,"0.22-3",3,2,5
+"28","Alteromonas_australica_SAMEA2623513","PGGKNGAJ","Alteromonas australica TARA PGGKNGAJ",640,81.37,1.2,"0.22-3",3,2,5
+"29","Alteromonas_australica_SAMEA2623826","OCIHHAIO","Alteromonas australica TARA OCIHHAIO",40,93.28,0.31,"0.22-3",3,2,5
+"30","Alteromonas_australica_SAMN05326644","PON00061","Alteromonas australica TARA PON00061",0,84.82,1.2,NA,3,2,5
+"31","Alteromonas_australica_SAMN07136710","AFAMJGBL","Alteromonas australica BGEO AFAMJGBL ",185,80.96,0.72,"0.2<-",3,2,5
+"32","Alteromonas_confluentis_KCTC_42603","2855643116","Alteromonas confluentis KCTC 42603",0,99.64,0.05,"",1,1,2
+"33","Alteromonas_confluentis_SAMN05422120","BOFCDAAO","Alteromonas confluentis MALA BOFCDAAO ",3008,84.86,0.92,"0.8-20",1,1,2
+"34","Alteromonas_fortis_ALFOR1","903772925.1","Alteromonas fortis ALFOR1",NA,100,0.17,"",3,2,5
+"35","Alteromonas_gracilis_SAMN07626136","MMP07626136","Alteromonas gracilis MARD MMP07626136 ",0,99.62,0.08,NA,1,1,2
+"36","Alteromonas_indica_IO390401","2855647486","Alteromonas indica IO390401",25,100,0,"",4,1,5
+"37","Alteromonas_lipolytica_JW12","2834723206","Alteromonas lipolytica JW12",0,99.84,0.01,"",0,1,1
+"38","Alteromonas_macleodii__Aegean_Sea_MED64_","2545824627","Alteromonas mediterranea Aegean Sea MED64 ",5,98.71,0.94,"",2,3,5
+"39","Alteromonas_macleodii__English_Channel_615_","2561511205","Alteromonas mediterranea English Channel 615 ",0,97.33,0.46,"",2,3,5
+"40","Alteromonas_macleodii__Ionian_Sea_U4_","2561511203","Alteromonas mediterranea Ionian Sea U4 ",3475,97.7,0.21,"",2,2,4
+"41","Alteromonas_macleodii__Ionian_Sea_U7_","2554235399","Alteromonas mediterranea Ionian Sea U7 ",3500,99.55,0.11,"",2,2,4
+"42","Alteromonas_macleodii__Ionian_Sea_U8_","2554235400","Alteromonas mediterranea Ionian Sea U8 ",3500,99.89,0.09,"",2,2,4
+"43","Alteromonas_macleodii__Ionian_Sea_UM4b_","2554235401","Alteromonas mediterranea Ionian Sea UM4b ",3455,97.64,1.22,"",2,3,5
+"44","Alteromonas_macleodii__Ionian_Sea_UM7_","2561511204","Alteromonas mediterranea Ionian Sea UM7 ",3475,100,0.29,"",2,3,5
+"45","Alteromonas_macleodii_83_1","901446755.2","Alteromonas macleodii 83 1",20,100,0.25,"",3,1,4
+"46","Alteromonas_macleodii_AltDE1","2521172685","Alteromonas mediterranea AltDE1",1000,100,0.45,"",2,3,5
+"47","Alteromonas_macleodii_ATCC_27126","2554235747","Alteromonas macleodii ATCC 27126",0.12,99.66,0.23,"",3,2,5
+"48","Alteromonas_macleodii_Balearic_Sea_AD45","2521172706","Alteromonas macleodii Balearic Sea AD45",NA,98.65,0.05,"",3,2,5
+"49","Alteromonas_macleodii_BGP14","2738541262","Alteromonas macleodii BGP14",20,100,0.04,"",3,1,4
+"50","Alteromonas_macleodii_BGP6","2738541260","Alteromonas macleodii BGP6",20,100,0.03,"",3,1,4
+"51","Alteromonas_macleodii_BGP9","2738541261","Alteromonas macleodii BGP9",20,100,0.03,"",3,1,4
+"52","Alteromonas_macleodii_Black_Sea_11","2521172684","Alteromonas macleodii Black Sea 11",0,100,0.08,"",4,1,5
+"53","Alteromonas_macleodii_D7","2684623206","Alteromonas macleodii D7",0,100,0.12,"",3,1,4
+"54","Alteromonas_macleodii_English_Channel_673","2521172683","Alteromonas macleodii English Channel 673",0,99.88,0.05,"",3,1,4
+"55","Alteromonas_macleodii_EZ55","2785510739","Alteromonas macleodii EZ55",NA,100,0.05,"",3,1,4
+"56","Alteromonas_macleodii_HOT1A3","2687453488","Alteromonas macleodii HOT1A3",5,100,0.02,"",3,1,4
+"57","Alteromonas_macleodii_MAG10_FICUS","FICUS","Alteromonas macleodii MAG10 Ficus",NA,85.27,2.97,"",3,1,4
+"58","Alteromonas_macleodii_MAG31","MAG31","Alteromonas macleodii MAG31",NA,93.82,3.7,"",2,1,3
+"59","Alteromonas_macleodii_MIT1002_Genome_closure","2738541267","Alteromonas macleodii MIT1002 Genome closure",10,100,0.04,"",4,1,5
+"60","Alteromonas_macleodii_QZ9_9","023805395.1","Alteromonas macleodii QZ9 9",NA,100,0.24,"",3,1,4
+"61","Alteromonas_macleodii_REDSEA_S09_B2","2651870151","Alteromonas macleodii REDSEA S09 B2",500,99,0.79,"",3,3,6
+"62","Alteromonas_macleodii_REDSEA_S14_B11","2651870154","Alteromonas macleodii REDSEA S14 B11",200,73.75,2.54,"",3,1,4
+"63","Alteromonas_macleodii_REDSEA_S15_B11","2651870155","Alteromonas macleodii REDSEA S15 B11",258,89.9,0.58,"",2,2,4
+"64","Alteromonas_macleodii_SAMEA2619970","GKNKAGAI","Alteromonas macleodii TARA GKNKAGAI ",600,71.08,0.36,"0.22-1.6",3,1,4
+"65","Alteromonas_macleodii_SAMEA2620021","NHAIJEJL","Alteromonas macleodii TARA NHAIJEJL ",25,75.96,0.26,"0.22-1.6",4,1,5
+"66","Alteromonas_macleodii_SAMEA2620035","KKMHIJLM","Alteromonas macleodii TARA KKMHIJLM ",340,78.77,0.88,"0.22-1.6",3,1,4
+"67","Alteromonas_macleodii_SAMEA2620259","OHBFMFFC","Alteromonas macleodii TARA OHBFMFFC ",80,96.1,1.14,"0.22-1.6",3,1,4
+"68","Alteromonas_macleodii_SAMEA2620413","HJGOFLNN","Alteromonas macleodii TARA HJGOFLNN ",5,84.72,1.64,"0.1-0.22",3,1,4
+"69","Alteromonas_macleodii_SAMEA2620542","MEOGFAGI","Alteromonas macleodii TARA MEOGFAGI ",5,80.62,1.07,"0.22-1.6",2,1,3
+"70","Alteromonas_macleodii_SAMEA2620734","NONNIGNP","Alteromonas macleodii TARA NONNIGNP ",66,83.57,1.74,"0.22-3",3,1,4
+"71","Alteromonas_macleodii_SAMEA2620815","EEKNENIE","Alteromonas macleodii TARA EEKNENIE ",1000,80.92,1.49,"0.22-3",3,1,4
+"72","Alteromonas_macleodii_SAMEA2620882","GFDHHHGO","Alteromonas macleodii TARA GFDHHHGO ",850,70.95,0.8,"0.22-3",3,1,4
+"73","Alteromonas_macleodii_SAMEA2621021","MKIGFGMC","Alteromonas macleodii TARA MKIGFGMC ",5,82.82,0.31,"0.45-0.8",3,1,4
+"74","Alteromonas_macleodii_SAMEA2621044","JOAMDGOD","Alteromonas macleodii TARA JOAMDGOD ",50,76.14,0.39,"0.22-0.45",3,1,4
+"75","Alteromonas_macleodii_SAMEA2621260","POCDJBFE","Alteromonas macleodii TARA POCDJBFE ",5,75.06,0.56,"0.45-0.8",2,1,3
+"76","Alteromonas_macleodii_SAMEA2621423","ACNBNNHJ","Alteromonas macleodii TARA ACNBNNHJ ",40,99.28,0.28,"0.22-3",3,1,4
+"77","Alteromonas_macleodii_SAMEA2621839","PGLOPPIJ","Alteromonas macleodii TARA PGLOPPIJ ",5,93.74,1.1,"0.22-3",1,1,2
+"78","Alteromonas_macleodii_SAMEA2622097","CJDFGJHP","Alteromonas macleodii TARA CJDFGJHP ",5,75.58,0.14,"0.22-3",3,1,4
+"79","Alteromonas_macleodii_SAMEA2622219","OLKBBLOM","Alteromonas macleodii TARA OLKBBLOM ",40,87.01,0.26,"0.22-3",4,1,5
+"80","Alteromonas_macleodii_SAMEA2622336","IANBPKNL","Alteromonas macleodii TARA IANBPKNL ",30,99.47,0.08,"0.22-3",3,1,4
+"81","Alteromonas_macleodii_SAMEA2622357","MMNPPCIF","Alteromonas macleodii TARA MMNPPCIF ",30,92.42,1.52,"<-0.22",2,1,3
+"82","Alteromonas_macleodii_SAMEA2622376","BHCALEEO","Alteromonas macleodii TARA BHCALEEO ",5,92.48,0.21,"0.22-3",3,1,4
+"83","Alteromonas_macleodii_SAMEA2622478","OEBMNELG","Alteromonas macleodii TARA OEBMNELG ",90,98.08,0.35,"0.22-3",3,1,4
+"84","Alteromonas_macleodii_SAMEA2622499","AGKMCDCN","Alteromonas macleodii TARA AGKMCDCN ",350,81.24,0.46,"0.22-3",2,1,3
+"85","Alteromonas_macleodii_SAMEA2622545","KEGJKDAO","Alteromonas macleodii TARA KEGJKDAO ",155,99.64,0.08,"0.22-3",3,1,4
+"86","Alteromonas_macleodii_SAMEA2622568","DIBMGPDO","Alteromonas macleodii TARA DIBMGPDO ",696,87.56,0.11,"0.22-3",2,1,3
+"87","Alteromonas_macleodii_SAMEA2622676","KGFLKMBD","Alteromonas macleodii TARA KGFLKMBD ",600,81.14,0.44,"0.1-0.22",3,1,4
+"88","Alteromonas_macleodii_SAMEA2622678","NJLMMAFG","Alteromonas macleodii TARA NJLMMAFG ",600,72.68,0.12,"0.45-0.8",2,1,3
+"89","Alteromonas_macleodii_SAMEA2622694","CCCHGPBM","Alteromonas macleodii TARA CCCHGPBM ",115,79.55,0.63,"0.1-0.22",1,1,2
+"90","Alteromonas_macleodii_SAMEA2622733","LJOLBPGP","Alteromonas macleodii TARA LJOLBPGP",150,87.47,0.08,"0.22-3",3,1,4
+"91","Alteromonas_macleodii_SAMEA2622736","KEKDHEDF","Alteromonas macleodii TARA KEKDHEDF",150,84.19,0.22,"0.1-0.22",3,1,4
+"92","Alteromonas_macleodii_SAMEA2622799","POKHDFDG","Alteromonas macleodii TARA POKHDFDG",120,87.49,1.06,"0.1-0.22",2,1,3
+"93","Alteromonas_macleodii_SAMEA2622800","PLGNBFNB","Alteromonas macleodii TARA PLGNBFNB",120,76.24,1.26,"0.22-0.45",1,1,2
+"94","Alteromonas_macleodii_SAMEA2622821","DGNNOPLM","Alteromonas macleodii TARA DGNNOPLM",5,79.03,0.84,"0.1-0.22",1,0,1
+"95","Alteromonas_macleodii_SAMEA2622843","KKMNMCOG","Alteromonas macleodii TARA KKMNMCOG",140,75.06,0.76,"0.45-0.8",3,1,4
+"96","Alteromonas_macleodii_SAMEA2623098","BOAFAAIF","Alteromonas macleodii TARA BOAFAAIF",550,80.97,0.32,"0.22-3",2,1,3
+"97","Alteromonas_macleodii_SAMEA2623155","HDJJLLJM","Alteromonas macleodii TARA HDJJLLJM",650,80.36,0.42,"0.22-3",2,1,3
+"98","Alteromonas_macleodii_SAMEA2623295","KGDGGJKN","Alteromonas macleodii TARA KGDGGJKN",40,72.62,1.74,"0.22-3",2,1,3
+"99","Alteromonas_macleodii_SAMEA2623370","BGGPHFHM","Alteromonas macleodii TARA BGGPHFHM",60,76.81,1,"0.22-3",3,1,4
+"100","Alteromonas_macleodii_SAMEA2623390","LDEBDOEH","Alteromonas macleodii TARA LDEBDOEH",450,78.43,0.26,"0.22-3",2,1,3
+"101","Alteromonas_macleodii_SAMEA2623756","DMBINDKP","Alteromonas macleodii TARA DMBINDKP",250,99.64,0.45,"0.22-3",3,1,4
+"102","Alteromonas_macleodii_SAMEA2623794","NBFOODCE","Alteromonas macleodii TARA NBFOODCE",740,72.86,0.6,"0.22-3",3,1,4
+"103","Alteromonas_macleodii_SAMN05421563","OGDDIGDA","Alteromonas macleodii MALA OGDDIGDA ",4002,91.5,1.19,"0.2-0.8",2,1,3
+"104","Alteromonas_macleodii_SAMN05421660","BCLNBHCC","Alteromonas macleodii MALA BCLNBHCC ",4003,84.3,0.86,"0.8-20",3,1,4
+"105","Alteromonas_macleodii_SAMN05421706","CKJAFDPA","Alteromonas macleodii MALA CKJAFDPA ",4018,95.72,1.6,"0.2-0.8",2,1,3
+"106","Alteromonas_macleodii_SAMN05421901","KALOONEP","Alteromonas macleodii MALA KALOONEP ",3907,85.44,1.36,"0.2-0.8",3,1,4
+"107","Alteromonas_macleodii_SAMN05421913","FAHHIFON","Alteromonas macleodii MALA FAHHIFON ",3500,78.31,2.01,"0.8-20",3,1,4
+"108","Alteromonas_macleodii_SAMN05422106","IKNIELCH","Alteromonas macleodii MALA IKNIELCH ",4004,95.49,1.26,"0.8-20",3,1,4
+"109","Alteromonas_macleodii_SAMN05422107","FBOLMPMJ","Alteromonas macleodii MALA FBOLMPMJ ",4003,93.19,0.37,"0.2-0.8",1,1,2
+"110","Alteromonas_macleodii_SAMN05422114","HDMCNFBK","Alteromonas macleodii MALA HDMCNFBK ",4002,99.3,0.12,"0.8-20",3,1,4
+"111","Alteromonas_macleodii_SAMN05422115","EILAGLKN","Alteromonas macleodii MALA EILAGLKN ",4000,78.64,1.34,"0.8-20",2,1,3
+"112","Alteromonas_macleodii_SAMN05422121","EKAOPGOL","Alteromonas macleodii MALA EKAOPGOL ",4003,77.61,1.03,"0.2-0.8",1,1,2
+"113","Alteromonas_macleodii_SAMN05422122","JKIINEFM","Alteromonas macleodii MALA JKIINEFM ",3500,94.22,0.48,"0.2-0.8",4,1,5
+"114","Alteromonas_macleodii_SAMN05422123","AHNLNHFL","Alteromonas macleodii MALA AHNLNHFL ",4001,89.26,0.48,"0.8-20",3,1,4
+"115","Alteromonas_macleodii_SAMN05422128","GFOMCGFD","Alteromonas macleodii MALA GFOMCGFD ",4002,97.44,0.47,"0.2-0.8",3,1,4
+"116","Alteromonas_macleodii_SAMN05422130","LKGLPHMF","Alteromonas macleodii MALA LKGLPHMF ",4005,73.68,1.34,"0.8-20",1,1,2
+"117","Alteromonas_macleodii_SAMN05422133","NBFINJIH","Alteromonas macleodii MALA NBFINJIH ",4003,84.23,0.9,"0.8-20",2,1,3
+"118","Alteromonas_macleodii_SAMN05422138","COKPJGJJ","Alteromonas macleodii MALA COKPJGJJ ",4003,91.72,1.18,"0.2-0.8",2,1,3
+"119","Alteromonas_macleodii_SAMN05422143","FOMAMBOG","Alteromonas macleodii MALA FOMAMBOG ",4002,90.3,0.34,"0.2-0.8",2,0,2
+"120","Alteromonas_macleodii_SAMN05422149","GLMHGCOP","Alteromonas macleodii MALA GLMHGCOP ",4003,81.29,0.88,"0.2-0.8",2,1,3
+"121","Alteromonas_macleodii_SAMN05422152","HBNHKFJL","Alteromonas macleodii MALA HBNHKFJL ",3996,85.88,2.07,"0.2-0.8",3,2,5
+"122","Alteromonas_macleodii_SAMN05422164","ENHHGIGI","Alteromonas macleodii MALA ENHHGIGI ",4003,87,3,"0.8-20",3,4,7
+"123","Alteromonas_macleodii_SAMN05422168","KJDAIKNE","Alteromonas macleodii MALA KJDAIKNE ",4002,78.74,1.42,"0.8-20",1,1,2
+"124","Alteromonas_macleodii_SAMN05422183","FCADMKDN","Alteromonas macleodii MALA FCADMKDN ",4005,91.26,0.74,"0.2-0.8",2,1,3
+"125","Alteromonas_macleodii_SAMN05422188","NPFLJJIF","Alteromonas macleodii MALA NPFLJJIF ",3907,88.63,0.98,"0.8-20",2,1,3
+"126","Alteromonas_macleodii_SAMN05422191","FAHFBJCK","Alteromonas macleodii MALA FAHFBJCK ",4002,88.13,1.08,"0.8-20",1,1,2
+"127","Alteromonas_macleodii_SAMN05422195","GNIPIPMH","Alteromonas macleodii MALA GNIPIPMH ",4002,75.94,1.45,"0.2-0.8",2,1,3
+"128","Alteromonas_macleodii_SAMN05422226","LFOGBKLO","Alteromonas macleodii MALA LFOGBKLO ",4001,90.64,0.67,"0.2-0.8",2,1,3
+"129","Alteromonas_macleodii_SAMN05578452","MMP05578452","Alteromonas macleodii MARD MMP05578452 ",0,99.64,1.96,NA,3,1,4
+"130","Alteromonas_macleodii_SAMN07136589","DDMJICEB","Alteromonas macleodii BGEO DDMJICEB ",233.6,96.84,0.76,"0.2<-",4,1,5
+"131","Alteromonas_macleodii_SAMN07136711","NHALNJBN","Alteromonas macleodii BGEO NHALNJBN ",2,97.99,2.37,"0.2<-",3,1,4
+"132","Alteromonas_macleodii_SAMN07136718","FMLMDJCG","Alteromonas macleodii BGEO FMLMDJCG ",2,85.72,0.26,"0.2<-",2,1,3
+"133","Alteromonas_macleodii_Te101","2841458974","Alteromonas macleodii Te101",0,100,0.14,"",3,1,4
+"134","Alteromonas_mediterranea_AltCH17","009759785.1","Alteromonas mediterranea AltCH17",NA,99.95,0.28,"",3,2,5
+"135","Alteromonas_mediterranea_AR43","2721755611","Alteromonas mediterranea AR43",0,99.84,0.26,"",3,2,5
+"136","Alteromonas_mediterranea_CP48","2718218105","Alteromonas mediterranea CP48",0,99.84,0.96,"",3,2,5
+"137","Alteromonas_mediterranea_CP49","2721755798","Alteromonas mediterranea CP49",0,99.17,1.96,"",3,2,5
+"138","Alteromonas_mediterranea_DE","642555105","Alteromonas mediterranea DE",3500,99.85,1.11,"",2,3,5
+"139","Alteromonas_mediterranea_PT11","006517095.1","Alteromonas mediterranea PT11",NA,100,0.17,"",3,2,5
+"140","Alteromonas_mediterranea_PT15","006517115.1","Alteromonas mediterranea PT15",NA,99.66,0.17,"",3,2,5
+"141","Alteromonas_mediterranea_RG65","2721755799","Alteromonas mediterranea RG65",0,99.84,0.26,"",3,2,5
+"142","Alteromonas_mediterranea_U10","2687453526","Alteromonas mediterranea U10",3500,100,0.17,"",2,3,5
+"143","Alteromonas_mediterranea_UM8","2687453642","Alteromonas mediterranea UM8",3475,100,0.16,"",2,3,5
+"144","Alteromonas_naphthalenivorans_SAMEA4396515","LLIFOMKD","Alteromonas naphthalenivorans TARA LLIFOMKD",40,80.62,4.55,"<-0.22",2,2,4
+"145","Alteromonas_naphthalenivorans_SAMEA4397023","BMLDLMJI","Alteromonas naphthalenivorans TARA BMLDLMJI",651,81.96,2.98,"<-0.22",2,2,4
+"146","Alteromonas_naphthalenivorans_SAMEA4397091","OHBHGPGP","Alteromonas naphthalenivorans TARA OHBHGPGP",499,88.93,2,"<-0.22",2,2,4
+"147","Alteromonas_naphthalenivorans_SAMEA4397516","ODHMDPHJ","Alteromonas naphthalenivorans TARA ODHMDPHJ",30,82.32,1,"0.22-3",2,1,3
+"148","Alteromonas_naphthalenivorans_SAMEA4397536","JOOLCOKF","Alteromonas naphthalenivorans TARA JOOLCOKF",30,94.46,2.08,"<-0.22",2,2,4
+"149","Alteromonas_naphthalenivorans_SAMEA4398193","IINLEEHA","Alteromonas naphthalenivorans TARA IINLEEHA",5,99.98,0.08,"<-0.22",2,2,4
+"150","Alteromonas_naphthalenivorans_SAMN07136711","EOPKMDLC","Alteromonas naphthalenivorans BGEO EOPKMDLC ",2,79.93,0.4,"0.2<-",2,2,4
+"151","Alteromonas_naphthalenivorans_SN2","2504136012","Alteromonas naphthalenivorans SN2",0,99.95,0.35,"",4,2,6
+"152","Alteromonas_oceani_S35","2855655360","Alteromonas oceani S35",1851,99.89,0.03,"",1,1,2
+"153","Alteromonas_ponticola_MYP5","2899554215","Alteromonas ponticola MYP5",0,99.83,0.03,"",1,2,3
+"154","Alteromonas_portus_HB161718","2899550177","Alteromonas portus HB161718",NA,100,0.2,"",3,2,5
+"155","Alteromonas_sediminis_U0105","2899565944","Alteromonas sediminis U0105",NA,99.1,0.08,"",1,1,2
+"156","Alteromonas_sp_07_89_2","2915794133","Alteromonas sp. 07 89 2",NA,100,0.1,"",3,1,4
+"157","Alteromonas_sp_76_1","900654235.1","Alteromonas sp. 76 1",20,99.95,0.28,"",3,2,5
+"158","Alteromonas_sp_ALT199","2524614846","Alteromonas sp. ALT199",0,99.95,0.09,"",3,2,5
+"159","Alteromonas_sp_B31_7","015767655.1","Alteromonas sp. B31 7",NA,99.84,0.59,"",3,2,5
+"160","Alteromonas_sp_BL110","003443615.1","Alteromonas sp. BL110",NA,99.87,0.17,"",3,2,5
+"161","Alteromonas_sp_BZK5","2698537011","Alteromonas sp. BZK5",NA,100,0.08,"",3,1,4
+"162","Alteromonas_sp_CPC327","2802429354","Alteromonas sp. CPC327",5,78,3.09,"",2,1,3
+"163","Alteromonas_sp_EAC37","2802429356","Alteromonas sp. EAC37",5,92.15,1.87,"",3,2,5
+"164","Alteromonas_sp_I10","2710724218","Alteromonas sp. I10",NA,100,0.02,"",3,1,4
+"165","Alteromonas_sp_IN32","2802429353","Alteromonas sp. IN32",5,85.42,4.19,"",1,1,2
+"166","Alteromonas_sp_KC14","016756335.1","Alteromonas sp. KC14",NA,99.78,0.17,"",1,1,2
+"167","Alteromonas_sp_KC3","016756315.1","Alteromonas sp. KC3",NA,99.95,0.17,"",1,1,2
+"168","Alteromonas_sp_KS69","2899561542","Alteromonas sp. KS69",NA,99.95,0.13,"",2,2,4
+"169","Alteromonas_sp_KUL106","2899557523","Alteromonas sp. KUL106",NA,100,0.01,"",1,1,2
+"170","Alteromonas_sp_KUL150","2899569661","Alteromonas sp. KUL150",NA,97.26,0.02,"",1,3,4
+"171","Alteromonas_sp_KUL17","2899573643","Alteromonas sp. KUL17",NA,99.94,0.01,"",3,1,4
+"172","Alteromonas_sp_KUL42","2902028997","Alteromonas sp. KUL42",NA,99.98,0.03,"",0,2,2
+"173","Alteromonas_sp_KUL49","2885134237","Alteromonas sp. KUL49",NA,99.62,0.99,"",0,2,2
+"174","Alteromonas_sp_LMIT006","024300645.1","Alteromonas sp. LMIT006",NA,96.03,0.51,"",0,0,0
+"175","Alteromonas_sp_LOR","2857284938","Alteromonas sp. LOR",NA,99.85,0.26,"",1,2,3
+"176","Alteromonas_sp_LTR","2751185844","Alteromonas sp. LTR",NA,99.85,0.32,"",1,2,3
+"177","Alteromonas_sp_Mac1","2687453355","Alteromonas sp. Mac1",0,99.84,0.01,"",2,2,4
+"178","Alteromonas_sp_Mac2","2687453434","Alteromonas sp. Mac2",0,99.5,0.01,"",2,2,4
+"179","Alteromonas_sp_MB_3u_76","2775506997","Alteromonas sp. MB 3u 76",0,99.95,0.01,"",0,2,2
+"180","Alteromonas_sp_MED668","2802429358","Alteromonas sp. MED668",5,92.78,3.33,"",1,4,5
+"181","Alteromonas_sp_Mex14","2718217925","Alteromonas sp. Mex14",0,99.95,0.01,"",1,1,2
+"182","Alteromonas_sp_NP15","2802429386","Alteromonas sp. NP15",40,82.95,3.33,"",3,2,5
+"183","Alteromonas_sp_RKMC_009","2841454579","Alteromonas sp. RKMC 009",11,100,0.21,"",3,1,4
+"184","Alteromonas_sp_RW2A1","2721755521","Alteromonas sp. RW2A1",0,99.95,0.19,"",0,4,4
+"185","Alteromonas_sp_SAMEA2591074_BGMPHGLH","BGMPHGLH","Alteromonas sp. TARA BGMPHGLH ",42,92.85,0.26,"0.22-1.6",0,2,2
+"186","Alteromonas_sp_SAMEA2621216","KOELIADL","Alteromonas sp. TARA KOELIADL ",150,90.85,0.3,"0.22-3",1,4,5
+"187","Alteromonas_sp_SAMEA2621487","JEJEPAEM","Alteromonas sp. TARA JEJEPAEM ",5,98.22,0.3,"0.22-3",1,2,3
+"188","Alteromonas_sp_SAMEA2621779_BKOBJOML","BKOBJOML","Alteromonas sp. TARA BKOBJOML ",5,80.97,0.3,"0.22-3",1,4,5
+"189","Alteromonas_sp_SAMEA2621839","MGLIPNEN","Alteromonas sp. TARA MGLIPNEN ",5,80.36,0.4,"0.22-3",1,2,3
+"190","Alteromonas_sp_SAMEA2622048","IMLALHCJ","Alteromonas sp. TARA IMLALHCJ ",488,81.33,1.4,"0.22-3",1,1,2
+"191","Alteromonas_sp_SAMEA2622097","HBPMPIGL","Alteromonas sp. TARA HBPMPIGL ",5,96.18,0.12,"0.22-3",1,4,5
+"192","Alteromonas_sp_SAMEA2622149","PCNPJDCB","Alteromonas sp. TARA PCNPJDCB ",177,74.87,0.69,"0.22-3",1,4,5
+"193","Alteromonas_sp_SAMEA2622197","GALLFCOI","Alteromonas sp. TARA GALLFCOI ",480,90.61,0.3,"0.22-3",1,2,3
+"194","Alteromonas_sp_SAMEA2622376","LCDBHBPD","Alteromonas sp. TARA LCDBHBPD ",5,88.05,0.88,"0.22-3",1,4,5
+"195","Alteromonas_sp_SAMEA2622652","NHABKKKL","Alteromonas sp. TARA NHABKKKL ",5,77.96,0.38,"0.22-3",1,4,5
+"196","Alteromonas_sp_SAMEA2622658","OHKNJPFH","Alteromonas sp. TARA OHKNJPFH ",5,93.13,0.12,"0.45-0.8",1,4,5
+"197","Alteromonas_sp_SAMEA2622676","BIMHMBHP","Alteromonas sp. TARA BIMHMBHP ",600,82.9,0.37,"0.1-0.22",1,5,6
+"198","Alteromonas_sp_SAMEA2622677","JBANDMDG","Alteromonas sp. TARA JBANDMDG ",600,90.28,0.3,"0.22-0.45",1,4,5
+"199","Alteromonas_sp_SAMEA2622695","NDMJOCCC","Alteromonas sp. TARA NDMJOCCC ",115,80.2,0.3,"0.22-0.45",1,3,4
+"200","Alteromonas_sp_SAMEA2622716","LLMPBKJB","Alteromonas sp. TARA LLMPBKJB",5,86.26,0.46,"0.45-0.8",1,4,5
+"201","Alteromonas_sp_SAMEA2622765","KBIKNAHF","Alteromonas sp. TARA KBIKNAHF",5,81.56,0.54,"0.45-0.8",1,4,5
+"202","Alteromonas_sp_SAMEA2622923","HGEKPCMK","Alteromonas sp. TARA HGEKPCMK",40,83.56,0.34,"0.22-3",0,3,3
+"203","Alteromonas_sp_SAMN05326649","SOC00002","Alteromonas sp. TARA SOC00002",0,97.52,0.63,NA,1,2,3
+"204","Alteromonas_sp_SAMN05422120","NDMHKPKD","Alteromonas sp. MALA NDMHKPKD ",3008,92.2,0.92,"0.8-20",1,2,3
+"205","Alteromonas_sp_SAMN07136715","KOEDIAMF","Alteromonas sp. BGEO KOEDIAMF ",91.6,94.88,3.88,"0.2<-",3,1,4
+"206","Alteromonas_sp_SAMN10134660","MMP10134660","Alteromonas sp. MARD MMP10134660 ",0,100,0.08,NA,3,2,5
+"207","Alteromonas_sp_SAMN10233659","MMP10233659","Alteromonas sp. MARD MMP10233659 ",0,99.94,1.76,NA,1,1,2
+"208","Alteromonas_sp_TK_46_2__DSM_26665","2731958078","Alteromonas sp. TK 46 2 DSM 26665",0,99.95,0.05,"",1,1,2
+"209","Alteromonas_sp_V450","2855651425","Alteromonas sp. V450",392.5,100,0,"",4,1,5
+"210","Alteromonas_stellipolaris_LMG_21861","2687453500","Alteromonas stellipolaris LMG 21861",25,99.5,0.05,"",2,2,4
+"211","Alteromonas_stellipolaris_LMG21856","2684623042","Alteromonas stellipolaris LMG21856",25,99.84,0.06,"",2,3,5
+"212","Alteromonas_stellipolaris_PQQ_42","2684623167","Alteromonas stellipolaris PQQ 42",NA,99.84,0.03,"",2,2,4
+"213","Alteromonas_stellipolaris_PQQ_44","2687453219","Alteromonas stellipolaris PQQ 44",NA,99.84,0.03,"",2,2,4
+"214","Alteromonas_stellipolaris_R10SW13","2687453643","Alteromonas stellipolaris R10SW13",0,99.84,0.14,"",2,2,4
